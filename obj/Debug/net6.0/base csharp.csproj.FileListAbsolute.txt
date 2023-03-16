@@ -1,0 +1,30 @@
+/Users/florencemartin/PROJET C#/base csharp/base csharp/bin/Debug/net6.0/base csharp
+/Users/florencemartin/PROJET C#/base csharp/base csharp/bin/Debug/net6.0/base csharp.deps.json
+/Users/florencemartin/PROJET C#/base csharp/base csharp/bin/Debug/net6.0/base csharp.runtimeconfig.json
+/Users/florencemartin/PROJET C#/base csharp/base csharp/bin/Debug/net6.0/base csharp.dll
+/Users/florencemartin/PROJET C#/base csharp/base csharp/bin/Debug/net6.0/base csharp.pdb
+/Users/florencemartin/PROJET C#/base csharp/base csharp/obj/Debug/net6.0/base csharp.csproj.AssemblyReference.cache
+/Users/florencemartin/PROJET C#/base csharp/base csharp/obj/Debug/net6.0/base csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/florencemartin/PROJET C#/base csharp/base csharp/obj/Debug/net6.0/base csharp.AssemblyInfoInputs.cache
+/Users/florencemartin/PROJET C#/base csharp/base csharp/obj/Debug/net6.0/base csharp.AssemblyInfo.cs
+/Users/florencemartin/PROJET C#/base csharp/base csharp/obj/Debug/net6.0/base csharp.csproj.CoreCompileInputs.cache
+/Users/florencemartin/PROJET C#/base csharp/base csharp/obj/Debug/net6.0/base csharp.dll
+/Users/florencemartin/PROJET C#/base csharp/base csharp/obj/Debug/net6.0/refint/base csharp.dll
+/Users/florencemartin/PROJET C#/base csharp/base csharp/obj/Debug/net6.0/base csharp.pdb
+/Users/florencemartin/PROJET C#/base csharp/base csharp/obj/Debug/net6.0/base csharp.genruntimeconfig.cache
+/Users/florencemartin/PROJET C#/base csharp/base csharp/obj/Debug/net6.0/ref/base csharp.dll
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/bin/Debug/net6.0/base csharp
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/bin/Debug/net6.0/base csharp.deps.json
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/bin/Debug/net6.0/base csharp.runtimeconfig.json
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/bin/Debug/net6.0/base csharp.dll
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/bin/Debug/net6.0/base csharp.pdb
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/obj/Debug/net6.0/base csharp.csproj.AssemblyReference.cache
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/obj/Debug/net6.0/base csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/obj/Debug/net6.0/base csharp.AssemblyInfoInputs.cache
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/obj/Debug/net6.0/base csharp.AssemblyInfo.cs
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/obj/Debug/net6.0/base csharp.csproj.CoreCompileInputs.cache
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/obj/Debug/net6.0/base csharp.dll
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/obj/Debug/net6.0/refint/base csharp.dll
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/obj/Debug/net6.0/base csharp.pdb
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/obj/Debug/net6.0/base csharp.genruntimeconfig.cache
+/Users/florencemartin/PROJET C#/reservation-livres-vsc/obj/Debug/net6.0/ref/base csharp.dll
